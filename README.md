@@ -1,15 +1,20 @@
-## Cristopher Araya Vega
+[![Cristopher Araya Vega](img/banner.png)](https://pagina-web-as.vercel.app/)
 
-Estudiante de Ingeniería en Ciencias de la Computación en el Tecnológico de Costa Rica (TEC), sede San Carlos, y cofundador de [AS Software & Automation](https://pagina-web-as.vercel.app/).
+## Hola, soy Cristopher
 
-Cuento con experiencia en el desarrollo de soluciones de software para clientes reales y en proyectos académicos de alta complejidad técnica. He participado en todas las etapas de un proyecto: el levantamiento de requerimientos con el cliente, la elaboración del acta de constitución y el alcance, el diseño de la arquitectura, la implementación del frontend y el backend, y el despliegue en producción.
+[![AS Software & Automation](https://img.shields.io/badge/-AS%20Software%20%26%20Automation-blue?style=social&logo=googlechrome&logoColor=blue)](https://pagina-web-as.vercel.app/)
+[![GitHub followers](https://img.shields.io/github/followers/Crisaraya21?label=Seguir&style=social)](https://github.com/Crisaraya21)
 
-He trabajado con arquitecturas de microservicios, autenticación y control de acceso por roles, y servicios en la nube de Microsoft Azure. Me desempeño bien en equipos que trabajan con metodologías ágiles como Scrum, organizando el trabajo en sprints e historias de usuario, con un flujo de ramas en Git donde cada cambio se integra mediante Pull Requests revisados por el equipo. Además, incorporo herramientas de inteligencia artificial como Claude Code y GitHub Copilot en mi proceso de desarrollo, con criterio para validar y comprender el código que entrego.
+* Estudiante de Ingeniería en Ciencias de la Computación en el TEC, sede San Carlos, Costa Rica 🇨🇷
+* Cofundador de [AS Software & Automation](https://pagina-web-as.vercel.app/), agencia que desarrolla páginas web, chatbots con IA, automatizaciones y sistemas a la medida 💡
+* He desarrollado soluciones para clientes reales como [Clínica Dental Siloé](https://clinicadentalsiloe.com), [Casa Wok Anime](https://casawokanime.com) y Ciudad Pastel
+* Techstack: `.ts`, `.js`, `.java`, `.py`, `.go`, `.scala`, `.sql`
+* Trabajo con microservicios, Microsoft Azure, Supabase, Firebase, Docker y metodologías ágiles como Scrum
 
-### Emprendimiento
+### Estadísticas de GitHub
 
-**[AS Software & Automation](https://pagina-web-as.vercel.app/)**
-Soy cofundador de esta agencia de tecnología en San Carlos. Desarrollamos páginas web, chatbots con inteligencia artificial, automatizaciones y sistemas a la medida para negocios locales. Nos encargamos del proceso completo: diagnóstico con el cliente, propuesta y alcance por escrito, desarrollo por etapas con avances semanales, lanzamiento y soporte posterior.
+[![Estadísticas](https://awesome-github-stats.azurewebsites.net/user-stats/Crisaraya21?cardType=github&theme=dracula&fontFamily=Roboto&preferLogin=false)](https://github.com/Crisaraya21)
+[![Racha de contribuciones](https://streak-stats.demolab.com/?user=Crisaraya21&theme=dracula&locale=es)](https://github.com/Crisaraya21)
 
 ### Proyectos con clientes
 
@@ -51,13 +56,3 @@ Juego de ajedrez programado en x86 Assembly (MASM), con partidas en línea entre
 [Repositorio](https://github.com/Crisaraya21/arChess-3.0)
 
 Otros: [Soy Viajero CR](https://github.com/gabo8086/soy-viajero-cr) (planificador de rutas de bus con mapas, Next.js), [Game Deals Scraper](https://github.com/Crisaraya21/game-deals-scraper) (scraping en paralelo con Python), [EcoSincro](https://github.com/Crisaraya21/EcoSincro) (plataforma de reciclaje, React).
-
-### Tecnologías
-
-- Lenguajes: TypeScript, JavaScript, Java, Python, Go, Scala, C++, SQL, Kotlin
-- Frontend: React, Next.js, Astro, Vite, Tailwind
-- Backend: Spring Boot, FastAPI, Node.js, Express
-- Bases de datos: PostgreSQL, SQL Server, Cosmos DB y Redis, además de plataformas modernas como Supabase y Firebase
-- Nube: Microsoft Azure (Static Web Apps, API Management, Azure SQL, Cosmos DB, Queue Storage, Web PubSub), Vercel y Netlify
-- Herramientas: Git, GitHub Actions, Docker
-- Metodologías: Scrum, desarrollo ágil y gestión de proyectos (actas de constitución, alcance y riesgos)
