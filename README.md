@@ -1,11 +1,11 @@
-[![Cristopher Araya Vega](img/banner.png)](https://pagina-web-as.vercel.app/)
+[![Cristopher Araya Vega](img/banner.svg)](https://pagina-web-as.vercel.app/)
 
 ## Hola, soy Cristopher
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-6024%204798-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/50660244798)
-[![Gmail](https://img.shields.io/badge/Gmail-crisaraya2020-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:crisaraya2020@gmail.com)
-[![Correo TEC](https://img.shields.io/badge/Correo%20TEC-c.araya.3%40estudiantec.cr-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDVoMjB2MTRIMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0yIDZsMTAgNyAxMC03IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4%3D&labelColor=005A9E)](mailto:c.araya.3@estudiantec.cr)
-[![AS Software & Automation](https://img.shields.io/badge/AS%20Software-%26%20Automation-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJjMyAzIDMgMTcgMCAyME0xMiAyYy0zIDMtMyAxNyAwIDIwIi8%2BPC9zdmc%2B&labelColor=1E40AF)](https://pagina-web-as.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/6024%204798-1E40AF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50660244798)
+[![Gmail](https://img.shields.io/badge/crisaraya2020%40gmail.com-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crisaraya2020@gmail.com)
+[![Correo TEC](https://img.shields.io/badge/c.araya.3%40estudiantec.cr-1E40AF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgNWgyMHYxNEgyeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTIgNmwxMCA3IDEwLTciIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg%3D%3D)](mailto:c.araya.3@estudiantec.cr)
+[![AS Software & Automation](https://img.shields.io/badge/AS%20Software%20%26%20Automation-1E40AF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJjMyAzIDMgMTcgMCAyME0xMiAyYy0zIDMtMyAxNyAwIDIwIi8%2BPC9zdmc%2B)](https://pagina-web-as.vercel.app/)
 
 * Estudiante de Ingeniería en Ciencias de la Computación en el Tecnológico de Costa Rica 🇨🇷
 * Cofundador de [AS Software & Automation](https://pagina-web-as.vercel.app/), agencia que desarrolla páginas web, chatbots con IA, automatizaciones y sistemas a la medida 💡
