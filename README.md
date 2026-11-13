@@ -2,11 +2,10 @@
 
 ## Hola, soy Cristopher
 
-[![WhatsApp](https://img.shields.io/badge/-6024%204798-25D366?style=social&logo=whatsapp&logoColor=25D366)](https://wa.me/50660244798)
-[![Gmail](https://img.shields.io/badge/-crisaraya2020-c14438?style=social&logo=gmail&logoColor=red)](mailto:crisaraya2020@gmail.com)
-[![Correo institucional](https://img.shields.io/badge/Correo%20TEC-c.araya.3%40estudiantec.cr-0078D4?style=social)](mailto:c.araya.3@estudiantec.cr)
-[![AS Software & Automation](https://img.shields.io/badge/-AS%20Software%20%26%20Automation-blue?style=social&logo=googlechrome&logoColor=blue)](https://pagina-web-as.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/Crisaraya21?label=Seguir&style=social)](https://github.com/Crisaraya21)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-6024%204798-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/50660244798)
+[![Gmail](https://img.shields.io/badge/Gmail-crisaraya2020-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:crisaraya2020@gmail.com)
+[![Correo TEC](https://img.shields.io/badge/Correo%20TEC-c.araya.3%40estudiantec.cr-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDVoMjB2MTRIMnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0yIDZsMTAgNyAxMC03IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4%3D&labelColor=005A9E)](mailto:c.araya.3@estudiantec.cr)
+[![AS Software & Automation](https://img.shields.io/badge/AS%20Software-%26%20Automation-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJjMyAzIDMgMTcgMCAyME0xMiAyYy0zIDMtMyAxNyAwIDIwIi8%2BPC9zdmc%2B&labelColor=1E40AF)](https://pagina-web-as.vercel.app/)
 
 * Estudiante de Ingeniería en Ciencias de la Computación en el Tecnológico de Costa Rica 🇨🇷
 * Cofundador de [AS Software & Automation](https://pagina-web-as.vercel.app/), agencia que desarrolla páginas web, chatbots con IA, automatizaciones y sistemas a la medida 💡
