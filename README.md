@@ -3,6 +3,7 @@
 ## Hola, soy Cristopher
 
 <p>
+  <a href="https://www.linkedin.com/in/cristopher-araya-vega"><img src="img/btn-linkedin.svg" alt="LinkedIn" height="42"></a>
   <a href="https://wa.me/50660244798"><img src="img/btn-whatsapp.svg" alt="WhatsApp 6024 4798" height="42"></a>
   <a href="mailto:crisaraya2020@gmail.com"><img src="img/btn-gmail.svg" alt="crisaraya2020@gmail.com" height="42"></a>
   <a href="mailto:c.araya.3@estudiantec.cr"><img src="img/btn-tec.svg" alt="c.araya.3@estudiantec.cr" height="42"></a>
