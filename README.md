@@ -2,6 +2,9 @@
 
 ## Hola, soy Cristopher
 
+[![WhatsApp](https://img.shields.io/badge/-6024%204798-25D366?style=social&logo=whatsapp&logoColor=25D366)](https://wa.me/50660244798)
+[![Gmail](https://img.shields.io/badge/-crisaraya2020-c14438?style=social&logo=gmail&logoColor=red)](mailto:crisaraya2020@gmail.com)
+[![Correo institucional](https://img.shields.io/badge/Correo%20TEC-c.araya.3%40estudiantec.cr-0078D4?style=social)](mailto:c.araya.3@estudiantec.cr)
 [![AS Software & Automation](https://img.shields.io/badge/-AS%20Software%20%26%20Automation-blue?style=social&logo=googlechrome&logoColor=blue)](https://pagina-web-as.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/Crisaraya21?label=Seguir&style=social)](https://github.com/Crisaraya21)
 
