@@ -5,7 +5,7 @@
 [![AS Software & Automation](https://img.shields.io/badge/-AS%20Software%20%26%20Automation-blue?style=social&logo=googlechrome&logoColor=blue)](https://pagina-web-as.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/Crisaraya21?label=Seguir&style=social)](https://github.com/Crisaraya21)
 
-* Estudiante de Ingeniería en Ciencias de la Computación en el TEC, sede San Carlos, Costa Rica 🇨🇷
+* Estudiante de Ingeniería en Ciencias de la Computación en el Tecnológico de Costa Rica 🇨🇷
 * Cofundador de [AS Software & Automation](https://pagina-web-as.vercel.app/), agencia que desarrolla páginas web, chatbots con IA, automatizaciones y sistemas a la medida 💡
 * He desarrollado soluciones para clientes reales como [Clínica Dental Siloé](https://clinicadentalsiloe.com), [Casa Wok Anime](https://casawokanime.com) y Ciudad Pastel
 * Techstack: `.ts`, `.js`, `.java`, `.py`, `.go`, `.scala`, `.sql`
@@ -46,7 +46,7 @@ React, Express, Firebase, OpenAPI. El repositorio es privado.
 ### Proyectos académicos
 
 #### RevisaTEC
-Plataforma de revisión de código entre pares para cursos del TEC. Se conecta a los repositorios de cada equipo, analiza el aporte individual y evalúa rúbricas. Está construida con tres microservicios detrás de Azure API Management:
+Plataforma de revisión de código entre pares para cursos del Tecnológico de Costa Rica. Se conecta a los repositorios de cada equipo, analiza el aporte individual y evalúa rúbricas. Está construida con tres microservicios detrás de Azure API Management:
 - Frontend en React y Vite, con login de Google y roles de profesor y estudiante
 - MS1 Core en Java 21 y Spring Boot, con arquitectura hexagonal y Azure SQL
 - MS2 de análisis en Python y FastAPI, con Cosmos DB y Queue Storage
